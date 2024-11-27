@@ -396,3 +396,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Arquivos de migração
+Migrations/
+
+# Arquivos do banco de dados
+*db*
